@@ -8,7 +8,7 @@ Tech Stack :
 
         -> State management using React UseState hooks.
 
-        -> Tailwind CSS is used for stylyinng and responsiveness
+        -> Tailwind CSS is used for styling and responsiveness
 
 Backend Rep : https://github.com/Ananthu100/bookstore-backend
 
